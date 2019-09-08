@@ -1,0 +1,2 @@
+# Big-Mall-Sale-Prediction-using-Python
+This project will solve the problem of businessmen who want to predict the sell of product in coming year  This project process the raw data of mart and apply machine learning regression algorithms to find the pattern in the data and make useful predictions  Following tools and libraries are used in this project : 1) Jupyter Notebook 2) numpy, scipy, pandas 3) matplotlib and seaborn  4) scikit-learn
